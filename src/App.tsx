@@ -26,8 +26,8 @@ function App() {
   return (
     <div className="page">
       <header className="site-header">
-        <div className="site-name">Alex Rivera</div>
-        <div className="contacts">alex.rivera@email.com • (555) 123-4567 • alexrivera.art</div>
+        <div className="site-name">Lalsiamtluanga</div>
+        <div className="contacts">lalsiamtluanga@gmail.com • +91 60332 11356 • lalsiamtluanga.com</div>
       </header>
 
       <main>
